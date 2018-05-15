@@ -5,8 +5,10 @@ VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9B5A57A5-94EC-43E3-A3D5-1A65F52D379A}"
 	ProjectSection(SolutionItems) = preProject
-		JS_Bootstrap_page.html = JS_Bootstrap_page.html
+		JS_Bootstrap_contact.html = JS_Bootstrap_contact.html
+		JS_Bootstrap_main.html = JS_Bootstrap_main.html
 		JS_Mainpage.html = JS_Mainpage.html
+		css\main.css = css\main.css
 	EndProjectSection
 EndProject
 Global

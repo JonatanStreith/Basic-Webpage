@@ -1,0 +1,25 @@
+body {
+    background-color: lightblue;
+    padding-top: 100px;
+    padding-bottom: 70px;
+}
+
+footer{
+    background-color: dodgerblue;
+}
+
+
+#main-content {
+    background-color: aqua;
+}
+#sidebar{
+    background-color: cornflowerblue
+}
+
+
+.row-eq-height {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
